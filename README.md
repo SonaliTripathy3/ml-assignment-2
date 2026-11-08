@@ -2,8 +2,8 @@
 
 **M.Tech (DSE) · Machine Learning · Assignment 2**
 
-🔗 **Live app:** `<PASTE STREAMLIT APP LINK>`
-🔗 **GitHub repo:** `<PASTE GITHUB REPO LINK>`
+🔗 **Live app:** `https://sonali-tumour-classifier.streamlit.app`
+🔗 **GitHub repo:** `https://github.com/SonaliTripathy3/ml-assignment-2.git`
 
 ---
 
